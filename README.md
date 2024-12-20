@@ -30,6 +30,6 @@ Before you begin, make sure you have installed:
 ```
 5. Rename the file **~/dags/modules/example.credential.json** to **~/dags/modules/credential.json**, and then change the configuration to match the one you are using
 
-6. Open a browser and navigate to **http://<HOST>:8080** to access Airflow's web interface.
+6. Open a browser and navigate to **http://localhost:8080** to access Airflow's web interface.
 
 7. In the Airflow web interface, enable and run the desired DAG to start the batch processing pipeline.
